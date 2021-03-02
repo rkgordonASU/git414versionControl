@@ -8,9 +8,9 @@
   <body>
     Add navigation here (but comment out this line) the pages are called "Home" "Shop" and "Contact"
     <address>
-1234 Main Street<br>
-Anytown, Anystate, USA<br>
-01010<br>
+      1234 Main Street<br>
+      Anytown, Anystate, USA<br>
+      01010<br>
     </address>
 
     <h2>Before Submitting an Assignment:</h2>
@@ -20,6 +20,7 @@ Anytown, Anystate, USA<br>
       <li>Check Slack for any additional tips or comments that might help you improve your work, Update/edit your assignment if needed.</li>
       <li>Submit the assignment</li>
     </ol>
+    
 Clickable Links
 (555)-555-5555
 j.barnett@asu.edu
